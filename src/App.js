@@ -17,7 +17,7 @@ function App() {
           <FPV />
           <Ground />
           <Player />
-          {/* <Cubes /> */}
+          <Cubes />
         </Physics>
       </Canvas>
       <div className='absolute cursor centerd'>+</div>
